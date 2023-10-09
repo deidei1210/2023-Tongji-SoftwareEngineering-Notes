@@ -22,7 +22,7 @@
 
 ## 普适性活动（Umbrella Activities）
 
-### risk management的完整过程
+### risk management的完整过程(重要，会考🌟)
 
 1. **识别风险（identity work）**: 经验(experience)，头脑风暴（brainstorming），专家系统（repository）**【以上是识别风险的三个方法】**  
    
