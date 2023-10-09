@@ -7,6 +7,9 @@
 1. 将系**统化的、规范的、可量化**的方法应用于软件的**开发、运行和维护**，即将工程化方法应用于软件；
 2. 对于（1）中所述方法的研究。
 
+![Software engineering layers](/软件工程/img/Software%20engineering%20layers.png)
+
+
 
 软件的质量是在**软件开发的过程**中形成的。  
 
